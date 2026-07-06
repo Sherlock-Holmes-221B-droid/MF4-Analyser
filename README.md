@@ -4,7 +4,7 @@ A fast, user‑friendly desktop tool for converting **.mf4 (ASAM MDF v4)** data 
 
 **Author:** _Created by Amal Nambiar 
 
-** You may download the exe from release **
+**You may download the exe from release**
 ## Table of Contents
 
 - [Key Features](#key-features)
