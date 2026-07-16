@@ -2,7 +2,7 @@
 
 A fast, user‑friendly desktop tool for converting **.mf4 (ASAM MDF v4)** data to CSV, selecting channels interactively, and exploring signals visually with rich  operations (resample/export, math ops, statistics, legend/grid, etc.). Built for engineering workflows that need repeatable exports and quick visual analysis.
 
-**Author:** _Created by Amal Nambiar 
+**Author:** Created by Amal Nambiar 
 
 **You may download the exe from release**
 ## Table of Contents
